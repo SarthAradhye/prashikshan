@@ -1,0 +1,15 @@
+{
+  "name": "prod2",
+  "version": "1.0.0",
+  "description": "This is a landing page for prashikshan mitra currently used for pre marketing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "erp",
+    "system"
+  ],
+  "author": "Sarth Aradhye",
+  "license": "ISC"
+}
